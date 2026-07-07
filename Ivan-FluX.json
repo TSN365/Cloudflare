@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:04:56 AM 07-07-2026",
+    "Last update time": "04:10:38 PM 07-07-2026",
     "Live": "00",
-    "Upcoming": "36",
+    "Upcoming": "38",
     "Finish": "00",
     "events": [
         {
@@ -171,8 +171,8 @@
                 "eventName": "Sobers-Tissera Trophy",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 14:00:00 +0000",
-                "endTime": "2026/07/06 23:30:00 +0000"
+                "startTime": "2026/07/07 14:00:00 +0000",
+                "endTime": "2026/07/07 23:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -503,21 +503,13 @@
                 "eventName": "Monday Night RAW",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 00:00:00 +0000",
-                "endTime": "2026/07/07 04:00:00 +0000"
+                "startTime": "2026/07/14 00:00:00 +0000",
+                "endTime": "2026/07/14 04:00:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "WWE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52071/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "RAW LIVE HD",
-                    "link": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+                    "link": "https://chatgpt.hereisman.net/playlist/53006/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -525,14 +517,14 @@
                 },
                 {
                     "title": "HD SERVER",
-                    "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+                    "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8?|referer=https://26hrwgorfcmh.windows-devs.top/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "LQ SERVER",
+                    "title": "SD SERVER",
                     "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
                     "logo": "",
                     "type": 0,
@@ -541,7 +533,7 @@
                 },
                 {
                     "title": "BACKUP SD",
-                    "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+                    "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://27lftgqlgzmy.windows-devs.top/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -671,505 +663,6 @@
             ]
         },
         {
-            "id": 1630,
-            "title": "World Championship",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Portugal",
-                "teamB": "Spain",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4704/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-                "eventName": "World Championship",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/06 19:00:00 +0000",
-                "endTime": "2026/07/06 22:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FOX ONE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TVE La 1 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TOFFEE BDIX (BD)",
-                    "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783447539~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5GiNNVcCNPkXZGvw8Su_WsdUhNKXmk8Jyz1gTHbU7UpS659B7KURm3gCi31E7VB2qmKui5wOoLG_8gcgXYbeEQA",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Binge BDIX (BD)",
-                    "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CANAL5 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CAZE TV FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN4 SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TUDN MEXICO",
-                    "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WC TV FHD",
-                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "RTE SPORTS FHD",
-                    "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "GOLTV VIVO",
-                    "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX SPORTS 4K",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ds6pjm8gzg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "BBC SPORTS 4K",
-                    "link": "https://inproviszon.st/bbc-4k-2.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beIN MAX UHD",
-                    "link": "https://inproviszon.st/beinsportsuhd-sa.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "D SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SporTV BR FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beIN SPORTS FHD",
-                    "link": "https://inproviszon.st/beinsportsmax-sa.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "BBC SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52993/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TELEMUNDO HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52996/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX ONE HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "M6 FRANCE (USA)",
-                    "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "UNITE8 HINDI HD",
-                    "link": "http://fastshare1.com/live/112233/445566/741567.ts",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://inproviszon.st/tsn1-ca.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX ONE HD",
-                    "link": "https://inproviszon.st/fox-xyz-waUvqaAAC.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTH72zvzH9bJ6.m3u8?txSecret=4fd0d16ae378a08c1f551f64284b9bd3&txTime=6A4C1DE0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX ONE 4K",
-                    "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX 4K LIVE",
-                    "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://xyzstreams.st/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS 4K",
-                    "link": "https://inproviszon.st/tsn-4k.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "DAZN MUNDIAL",
-                    "link": "https://inproviszon.st/daznmundial-es.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TELEMUNDO FHD",
-                    "link": "https://inproviszon.st/telemund0-usa.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FUSSBALL TV UHD",
-                    "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "IRIB 4K",
-                    "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52991/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52994/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "DAZN SPANISH",
-                    "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TYC SPORTS HD",
-                    "link": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ISCREEN BD FHD",
-                    "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FIFA LIVE HD",
-                    "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FIFA LIVE ENG",
-                    "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER ENG",
-                    "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER AR",
-                    "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER ES",
-                    "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER [ENG]",
-                    "link": "http://193.47.62.59/hls/JMMMCZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER [ENG]",
-                    "link": "http://193.47.62.55/hls/JMMMCZzsssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER [SWE]",
-                    "link": "http://193.47.62.47/hls/JMMMCZckkkqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beiN SPORTS FR",
-                    "link": "http://193.47.62.55/hls/JMMMCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ESPANOL SD",
-                    "link": "http://193.47.62.47/hls/JMMMCZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "T SPORTS HD",
-                    "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "BTV BDIX HD",
-                    "link": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SOMOY TV HD",
-                    "link": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS (ALT)",
-                    "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX SPORTS (ALT)",
-                    "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PEACOCK FHD [ALT]",
-                    "link": "ok",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX 4K [ALT]",
-                    "link": "https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xbfi5dhehl/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FUSSBALL TV (GER)",
-                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ZDF (GERMAN IP)",
-                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ORF (GERMAN IP)",
-                    "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Telemundo ES (USA)",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TELEMUNDO (USA)",
-                    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 176,
             "title": "One Friday Fights",
             "image": "https://iili.io/FDjaT1R.md.png",
@@ -1284,7 +777,7 @@
                 "eventName": "Wimbledon Championships",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 10:00:00 +0000",
+                "startTime": "2026/07/07 10:00:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -1435,41 +928,6 @@
             ]
         },
         {
-            "id": 1614,
-            "title": "World Championship",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "USA",
-                "teamB": "Belgium",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
-                "eventName": "World Championship",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/07 00:00:00 +0000",
-                "endTime": "2026/07/07 03:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FOX ONE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 1631,
             "title": "World Championship",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
@@ -1518,7 +976,7 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/07/07 20:00:00 +0000",
-                "endTime": "2026/07/07 22:20:00 +0000"
+                "endTime": "2026/07/07 23:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -1587,19 +1045,19 @@
         },
         {
             "id": 1659,
-            "title": "MLB",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-            "cat": "Baseball",
+            "title": "World Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+            "cat": "Football",
             "eventInfo": {
-                "teamA": "Padres",
-                "teamB": "Diamondbacks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "eventName": "MLB",
+                "teamA": "Spain",
+                "teamB": "Belgium",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
+                "eventName": "World Championship",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 01:40:00 +0000",
-                "endTime": "2026/07/07 04:40:00 +0000"
+                "startTime": "2026/07/10 19:00:00 +0000",
+                "endTime": "2026/07/10 21:20:00 +0000"
             },
             "channels_data": [
                 {
@@ -1618,28 +1076,20 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
             "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Nationals",
-                "teamB": "Astros",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "teamA": "Rays",
+                "teamB": "Yankees",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
                 "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 22:45:00 +0000",
-                "endTime": "2026/07/07 01:45:00 +0000"
+                "startTime": "2026/07/07 22:40:00 +0000",
+                "endTime": "2026/07/08 01:40:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1653,28 +1103,20 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
             "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Rays",
-                "teamB": "Yankees",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                "teamA": "Pirates",
+                "teamB": "Braves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
                 "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 22:40:00 +0000",
-                "endTime": "2026/07/07 01:40:00 +0000"
+                "startTime": "2026/07/07 22:40:00 +0000",
+                "endTime": "2026/07/08 01:40:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/MLB2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1688,36 +1130,20 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
             "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Royals",
-                "teamB": "Phillies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "teamA": "Marlins",
+                "teamB": "Mariners",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
                 "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 18:10:00 +0000",
-                "endTime": "2026/07/06 21:10:00 +0000"
+                "startTime": "2026/07/07 22:40:00 +0000",
+                "endTime": "2026/07/08 01:40:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "MLB HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52998/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1731,28 +1157,20 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
             "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Cardinals",
-                "teamB": "Brewers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "teamA": "Nationals",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
                 "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 23:45:00 +0000",
-                "endTime": "2026/07/07 02:45:00 +0000"
+                "startTime": "2026/07/07 22:45:00 +0000",
+                "endTime": "2026/07/08 01:45:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/MLB5/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1766,28 +1184,20 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
             "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Braves",
-                "teamB": "Mets",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "teamA": "Dodgers",
+                "teamB": "Rockies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
                 "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 23:15:00 +0000",
-                "endTime": "2026/07/07 02:15:00 +0000"
+                "startTime": "2026/07/08 02:10:00 +0000",
+                "endTime": "2026/07/08 05:10:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1801,15 +1211,15 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
             "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Dodgers",
-                "teamB": "Rockies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "teamA": "White Sox",
+                "teamB": "Red Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
                 "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 02:10:00 +0000",
-                "endTime": "2026/07/07 05:10:00 +0000"
+                "startTime": "2026/07/07 23:40:00 +0000",
+                "endTime": "2026/07/08 02:40:00 +0000"
             },
             "channels_data": [
                 {
@@ -1828,15 +1238,15 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
             "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Giants",
-                "teamB": "Blue Jays",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "teamA": "Orioles",
+                "teamB": "Cubs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
                 "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 01:45:00 +0000",
-                "endTime": "2026/07/07 04:45:00 +0000"
+                "startTime": "2026/07/07 22:35:00 +0000",
+                "endTime": "2026/07/08 01:35:00 +0000"
             },
             "channels_data": [
                 {
@@ -1851,32 +1261,24 @@
         },
         {
             "id": 1667,
-            "title": "NBA Summer League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
-            "cat": "Basketball",
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Nets",
-                "teamB": "Warriors",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-                "eventName": "NBA Summer League",
+                "teamA": "Mets",
+                "teamB": "Royals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 00:00:00 +0000",
-                "endTime": "2026/07/07 02:30:00 +0000"
+                "startTime": "2026/07/07 23:10:00 +0000",
+                "endTime": "2026/07/08 02:10:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/NBA3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1886,24 +1288,24 @@
         },
         {
             "id": 1668,
-            "title": "WNBA",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-            "cat": "Basketball",
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Mystics",
-                "teamB": "Valkyries",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-                "eventName": "WNBA",
+                "teamA": "Giants",
+                "teamB": "Blue Jays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 23:30:00 +0000",
-                "endTime": "2026/07/07 02:00:00 +0000"
+                "startTime": "2026/07/08 01:45:00 +0000",
+                "endTime": "2026/07/08 04:45:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1913,32 +1315,24 @@
         },
         {
             "id": 1669,
-            "title": "NBA Summer League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
-            "cat": "Basketball",
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Jazz",
-                "teamB": "Grizzlies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-                "eventName": "NBA Summer League",
+                "teamA": "Cardinals",
+                "teamB": "Brewers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 01:00:00 +0000",
-                "endTime": "2026/07/07 03:30:00 +0000"
+                "startTime": "2026/07/07 18:15:00 +0000",
+                "endTime": "2026/07/07 21:15:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/NBA4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1948,19 +1342,19 @@
         },
         {
             "id": 1670,
-            "title": "NBA Summer League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
-            "cat": "Basketball",
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Kings",
-                "teamB": "Bucks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-                "eventName": "NBA Summer League",
+                "teamA": "Padres",
+                "teamB": "Diamondbacks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 02:00:00 +0000",
-                "endTime": "2026/07/07 04:30:00 +0000"
+                "startTime": "2026/07/08 01:40:00 +0000",
+                "endTime": "2026/07/08 04:40:00 +0000"
             },
             "channels_data": [
                 {
@@ -1975,32 +1369,24 @@
         },
         {
             "id": 1671,
-            "title": "NBA Summer League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
-            "cat": "Basketball",
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Thunder",
-                "teamB": "Hawks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-                "eventName": "NBA Summer League",
+                "teamA": "Rangers",
+                "teamB": "Angels",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 23:00:00 +0000",
-                "endTime": "2026/07/07 01:30:00 +0000"
+                "startTime": "2026/07/08 00:05:00 +0000",
+                "endTime": "2026/07/08 03:05:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream1.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2010,24 +1396,24 @@
         },
         {
             "id": 1672,
-            "title": "WNBA",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-            "cat": "Basketball",
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Lynx",
-                "teamB": "Sun",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-                "eventName": "WNBA",
+                "teamA": "Twins",
+                "teamB": "Guardians",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 00:00:00 +0000",
-                "endTime": "2026/07/07 02:30:00 +0000"
+                "startTime": "2026/07/07 23:40:00 +0000",
+                "endTime": "2026/07/08 02:40:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2037,32 +1423,24 @@
         },
         {
             "id": 1673,
-            "title": "NBA Summer League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
-            "cat": "Basketball",
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Spurs",
-                "teamB": "Lakers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-                "eventName": "NBA Summer League",
+                "teamA": "Cardinals",
+                "teamB": "Brewers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/06 23:30:00 +0000",
-                "endTime": "2026/07/07 02:00:00 +0000"
+                "startTime": "2026/07/07 23:45:00 +0000",
+                "endTime": "2026/07/08 02:45:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2072,19 +1450,19 @@
         },
         {
             "id": 1674,
-            "title": "WNBA",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-            "cat": "Basketball",
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
             "eventInfo": {
-                "teamA": "Sparks",
-                "teamB": "Storm",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-                "eventName": "WNBA",
+                "teamA": "Reds",
+                "teamB": "Phillies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "eventName": "MLB",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 02:00:00 +0000",
-                "endTime": "2026/07/07 04:30:00 +0000"
+                "startTime": "2026/07/07 23:10:00 +0000",
+                "endTime": "2026/07/08 02:10:00 +0000"
             },
             "channels_data": [
                 {
@@ -2099,19 +1477,127 @@
         },
         {
             "id": 1675,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Tigers",
+                "teamB": "Athletics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/07 22:40:00 +0000",
+                "endTime": "2026/07/08 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1676,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Mercury",
+                "teamB": "Sky",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/08 02:00:00 +0000",
+                "endTime": "2026/07/08 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1677,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Liberty",
+                "teamB": "Wings",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/08 00:00:00 +0000",
+                "endTime": "2026/07/08 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1678,
             "title": "NBA Summer League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
             "cat": "Basketball",
             "eventInfo": {
-                "teamA": "Warriors",
-                "teamB": "Heat",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+                "teamA": "Grizzlies",
+                "teamB": "Hawks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
                 "eventName": "NBA Summer League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/07 02:00:00 +0000",
-                "endTime": "2026/07/07 04:30:00 +0000"
+                "startTime": "2026/07/07 23:00:00 +0000",
+                "endTime": "2026/07/08 01:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1679,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Jazz",
+                "teamB": "Thunder",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/08 01:00:00 +0000",
+                "endTime": "2026/07/08 03:30:00 +0000"
             },
             "channels_data": [
                 {
