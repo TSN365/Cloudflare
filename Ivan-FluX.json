@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:13:08 PM 26-07-2026",
+    "Last update time": "07:44:10 PM 26-07-2026",
     "Live": "00",
     "Upcoming": "55",
     "Finish": "00",
@@ -153,40 +153,32 @@
                 "eventName": "ICC World Test Championship",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/26 14:00:00 +0000",
+                "startTime": "2026/07/26 13:48:00 +0000",
                 "endTime": "2026/07/27 00:00:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/balosrv5xe/out/v1/4a08fbcca65d48fcb324bd2205eb727e/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "b90a33753b53e16bf32dfa95ccf6f191:e57aae6516f9227f7c21e20b34266bb6",
+                    "api": "ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/balosrv5xe/out/v1/4a08fbcca65d48fcb324bd2205eb727e/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "b90a33753b53e16bf32dfa95ccf6f191:e57aae6516f9227f7c21e20b34266bb6",
+                    "api": "ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a",
                     "tokenApi": ""
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                     "tokenApi": ""
                 },
                 {
@@ -207,22 +199,6 @@
                     }
                 },
                 {
-                    "title": "WILLOW SD",
-                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.192/hls/SOOOQQQQ.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "PTV SPORTS",
                     "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
                     "logo": "",
@@ -231,16 +207,32 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE (IND)",
-                    "link": "https://in-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
+                    "title": "FANCODE (BD)",
+                    "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE (BD)",
-                    "link": "https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
+                    "title": "FANCODE (IND)",
+                    "link": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW SD",
+                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -266,6 +258,22 @@
             },
             "channels_data": [
                 {
+                    "title": "Sky via Apple TV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6oqpug9mu/out/v1/502432e8607547b4a6278d3cc64d5b78/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "73c6218fa797bce56ec12bf5cc7e2dae:ec14e4df9b165a3631251246242f0e91",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                    "tokenApi": ""
+                },
+                {
                     "title": "Formula 1 HD",
                     "link": "https://chatgpt.hereisman.net/playlist/53722/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -275,7 +283,7 @@
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.50/hls/ZLLLQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.194/hls/UJJJAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -772,10 +780,34 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m14q6di0dr/out/v1/7a352d1daed04ebba98507e14081d8b6/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "84417eca78ea581d939c2727a93ff140:f7d946779c6fdbcbd784944a3bbcf5f8",
+                    "api": "42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇮🇳",
+                    "link": "https://livecf.fancode.com/4247431_english_hls_2e615b273261719_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇧🇩",
+                    "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/san_francisco_unicorns_vs_perth_scorchers_xi_4247431_english.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -784,46 +816,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m14q6di0dr/out/v1/7a352d1daed04ebba98507e14081d8b6/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "84417eca78ea581d939c2727a93ff140:f7d946779c6fdbcbd784944a3bbcf5f8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇮🇳",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇧🇩",
-                    "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇳🇵",
-                    "link": "https://np-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW SD",
-                    "link": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ4Mzc1Njc0MjQ6Y2RubGl2ZXR2LnR2OjhmMWFiZTdjNWQxMmZjYzUuYWI4NGJmMzY2ODM3ZDE0MWE2NTg4YWIxY2MwMTJlMTkzYmJlOTU1NzY5NGViNzgwZDBjNjIyNDhhYTc1MmZmZA",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -956,8 +948,56 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/LFFFQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -983,8 +1023,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1010,8 +1082,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ar5vpxijr/out/v1/679fbcd854064c98b175d2efe064b7cc/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d8575cbe0b673985c268bcc0c68b6d45:175e263ff54564cfd91c23ee8ee89eda",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ar5vpxijr/out/v1/679fbcd854064c98b175d2efe064b7cc/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d8575cbe0b673985c268bcc0c68b6d45:175e263ff54564cfd91c23ee8ee89eda",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://livecf.fancode.com/4246713_english_hls_17e2efa8db87720_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (BD)",
+                    "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_dambulla_sixers_4246713_english.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1172,8 +1268,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4595179.m3u8?txSecret=074ae883d303ed4fda32b6da6fa3a4ea&txTime=6A675470",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.190/hls/UJJJAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1280,8 +1384,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.190/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
