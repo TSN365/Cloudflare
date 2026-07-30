@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:14:52 PM 30-07-2026",
+    "Last update time": "12:30:56 AM 31-07-2026",
     "Live": "00",
-    "Upcoming": "62",
+    "Upcoming": "73",
     "Finish": "00",
     "events": [
         {
@@ -1224,10 +1224,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://file.genoads.com/ch1.m3u8",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bibzrzfvpn/out/v1/3a2f65c85ede4520aac81230c4fb0a9f/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "cdf12929b6d6bd0edd04c33a3652a07e:af48bca037bf7f8a19a9c0b99f985de3",
                     "tokenApi": ""
                 },
                 {
@@ -1236,6 +1236,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bibzrzfvpn/out/v1/3a2f65c85ede4520aac81230c4fb0a9f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cdf12929b6d6bd0edd04c33a3652a07e:af48bca037bf7f8a19a9c0b99f985de3",
                     "tokenApi": ""
                 },
                 {
@@ -1524,8 +1532,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53980/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1551,8 +1567,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53982/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1702,8 +1726,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53979/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.193/hls/llllAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2171,6 +2211,351 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.192/hls/ugggqqaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2196,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "PAOK",
+                "teamB": "Dynamo Kyiv",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3305/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/30 17:45:00 +0000",
+                "endTime": "2026/07/30 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.193/hls/llllAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2197,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Benfica",
+                "teamB": "St. Gallen",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2442/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/30 19:00:00 +0000",
+                "endTime": "2026/07/30 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.191/hls/IBBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://hls.live123.fans/live/4556488.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2198,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ajax",
+                "teamB": "Vojvodina",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5150/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/30 18:00:00 +0000",
+                "endTime": "2026/07/30 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.194/hls/IRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2199,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ferencváros",
+                "teamB": "Twente",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/30 18:30:00 +0000",
+                "endTime": "2026/07/30 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/YPPPAAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://162.251.160.53:8089/THURaFOT3/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2200,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Coritiba",
+                "teamB": "Cruzeiro",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/31 00:30:00 +0000",
+                "endTime": "2026/07/31 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2201,
+            "title": "Women's Africa Cup of Nations",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Morocco",
+                "teamB": "Algeria",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/261908/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/180004/image",
+                "eventName": "Women's Africa Cup of Nations",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/30 20:00:00 +0000",
+                "endTime": "2026/07/30 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "beiN SPORTS 2 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beiN SPORTS 3 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beiN SPORTS 1 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2204,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "O'Higgins",
+                "teamB": "Boca Juniors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/31 00:30:00 +0000",
+                "endTime": "2026/07/31 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2205,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Grêmio",
+                "teamB": "Bolívar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7059/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/30 22:00:00 +0000",
+                "endTime": "2026/07/31 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "beiN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SportDigital Fussball",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://162.251.160.53:8089/THURaFOT3/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2206,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Corinthians",
+                "teamB": "Athletico",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/30 22:30:00 +0000",
+                "endTime": "2026/07/31 00:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2207,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Caracas",
+                "teamB": "Santa Fe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6230/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/31 00:30:00 +0000",
+                "endTime": "2026/07/31 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2210,
+            "title": "CFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Winnipeg",
+                "teamB": "BC",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4435/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4440/image",
+                "eventName": "CFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/31 00:30:00 +0000",
+                "endTime": "2026/07/31 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
