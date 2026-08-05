@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:31:33 PM 05-08-2026",
+    "Last update time": "11:56:13 PM 05-08-2026",
     "Live": "00",
-    "Upcoming": "76",
+    "Upcoming": "96",
     "Finish": "00",
     "events": [
         {
@@ -758,8 +758,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX DEPORTES FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/ars-bet/playlist.m3u8?|Referer=https://ondemand.st/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.194/hls/AAAAAADDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1382,8 +1406,72 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xcdlizqkde/out/v1/08668ec117274d65ba50e8e7ba00c31d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d2d3c4f07d795ca038af64432ae866ca:e122279e79133f6c1a5c8996c598150f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xcdlizqkde/out/v1/08668ec117274d65ba50e8e7ba00c31d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d2d3c4f07d795ca038af64432ae866ca:e122279e79133f6c1a5c8996c598150f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://cdn.nexafootball.net/dx12hd/index.m3u8|referer=https://yahoo.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://cdn.nexafootball.net/dx12md/index.m3u8|referer=https://yahoo.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/AIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1855,8 +1943,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/HRRRAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2030,8 +2118,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX DEPORTES FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/ars-bet/playlist.m3u8?|Referer=https://ondemand.st/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.194/hls/AAAAAADDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2057,12 +2169,37 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "beiN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/mll-psg/playlist.m3u8?|Referer=https://ondemand.st/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/club-friendly/2026-08-05/mll-psg",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -2219,8 +2356,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2273,8 +2410,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54222/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2327,8 +2472,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54220/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2381,8 +2534,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54224/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2649,12 +2810,61 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FHD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/uefa-champions-league-qualifying/2026-08-05/fen-stg/playlist.m3u8?|Referer=https://ondemand.st/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdYEZEqfTrdRij_540p.m3u8?txSecret=fd97e36f5598d815ee859303f7fd853a&txTime=19FD439FBC7",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://162.251.160.53:8089/WEDFOT1/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/AAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER+",
+                    "link": "http://193.47.62.191/hls/zmmma.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD LIVE [FHD]",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/uefa-champions-league-qualifying/2026-08-05/fen-stg",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -2799,6 +3009,562 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.190/hls/tttta.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2268,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brann",
+                "teamB": "Apollon",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1159/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3402/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 17:00:00 +0000",
+                "endTime": "2026/08/05 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdaTB1Y7uKC7Tq_540p.m3u8?txSecret=e01af490fba4b08997081e27e6cc9f86&txTime=19FD42DA640",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.191/hls/zmmm.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2269,
+            "title": "Liga Profesional de Fútbol",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tigre",
+                "teamB": "Belgrano",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3203/image",
+                "eventName": "Liga Profesional de Fútbol",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 00:15:00 +0000",
+                "endTime": "2026/08/06 02:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2270,
+            "title": "Liga Profesional de Fútbol",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Boca Juniors",
+                "teamB": "Estudiantes",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3206/image",
+                "eventName": "Liga Profesional de Fútbol",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 22:00:00 +0000",
+                "endTime": "2026/08/06 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SportDigital Fussball",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2271,
+            "title": "Copa Betano do Brasil",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/373/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cruzeiro",
+                "teamB": "Chapecoence",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 22:00:00 +0000",
+                "endTime": "2026/08/06 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "9k",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2272,
+            "title": "Copa Betano do Brasil",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/373/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Grêmio",
+                "teamB": "Mirassol",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 22:30:00 +0000",
+                "endTime": "2026/08/06 00:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "gx",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2273,
+            "title": "Copa Betano do Brasil",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/373/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fluminense",
+                "teamB": "Vasco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 00:30:00 +0000",
+                "endTime": "2026/08/06 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "ok",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2274,
+            "title": "Copa Betano do Brasil",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/373/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fortaleza",
+                "teamB": "Palmeiras",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2020/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 00:30:00 +0000",
+                "endTime": "2026/08/06 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "eh",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2275,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Austin",
+                "teamB": "Tijuana",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377973/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36525/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 01:00:00 +0000",
+                "endTime": "2026/08/07 03:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2276,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Chicago",
+                "teamB": "Necaxa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 00:30:00 +0000",
+                "endTime": "2026/08/07 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2277,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter Miami",
+                "teamB": "San Luis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 23:30:00 +0000",
+                "endTime": "2026/08/06 01:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2278,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "América",
+                "teamB": "San Diego FC",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 02:00:00 +0000",
+                "endTime": "2026/08/07 04:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2279,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Los Angeles",
+                "teamB": "Guadalajara",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 02:30:00 +0000",
+                "endTime": "2026/08/06 04:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2280,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Monterrey",
+                "teamB": "Orlando",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/52237/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 23:30:00 +0000",
+                "endTime": "2026/08/06 01:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2281,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Toluca",
+                "teamB": "Seattle",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 02:00:00 +0000",
+                "endTime": "2026/08/06 04:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2282,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Dallas",
+                "teamB": "Querétaro",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 00:30:00 +0000",
+                "endTime": "2026/08/06 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2283,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Nashville",
+                "teamB": "León",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/337612/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36534/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 00:30:00 +0000",
+                "endTime": "2026/08/06 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2284,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cruz Azul",
+                "teamB": "Philadelphia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 00:10:00 +0000",
+                "endTime": "2026/08/07 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2285,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "NY City",
+                "teamB": "Santos",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187643/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 23:30:00 +0000",
+                "endTime": "2026/08/07 01:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2286,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Portland",
+                "teamB": "Puebla",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 02:30:00 +0000",
+                "endTime": "2026/08/07 04:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2287,
+            "title": "Leagues Cup",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/13783/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter Miami",
+                "teamB": "San Luis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 23:30:00 +0000",
+                "endTime": "2026/08/06 01:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-05/mia-asl/playlist.m3u8?|Referer=https://ondemand.st/",
                     "logo": "",
                     "type": 0,
                     "api": "",
