@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:03:32 PM 08-08-2026",
+    "Last update time": "04:33:13 PM 08-08-2026",
     "Live": "00",
-    "Upcoming": "79",
+    "Upcoming": "141",
     "Finish": "00",
     "events": [
         {
@@ -71,6 +71,33 @@
             ]
         },
         {
+            "id": 2475,
+            "title": "Caribbean Premier League T20",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "CPL T20",
+                "teamB": "CPL T20",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10",
+                "eventName": "Caribbean Premier League T20",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:00:00 +0000",
+                "endTime": "2026/08/09 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "ok",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
             "id": 2224,
             "title": "One Day International",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
@@ -83,8 +110,8 @@
                 "eventName": "One Day International",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/07 09:45:00 +0000",
-                "endTime": "2026/08/07 19:00:00 +0000"
+                "startTime": "2026/08/10 09:45:00 +0000",
+                "endTime": "2026/08/10 19:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -467,8 +494,8 @@
                 "eventName": "Friday Night SmackDown",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/08 00:00:00 +0000",
-                "endTime": "2026/08/08 04:00:00 +0000"
+                "startTime": "2026/08/15 00:00:00 +0000",
+                "endTime": "2026/08/15 04:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -982,29 +1009,29 @@
                 "eventName": "Calcutta Premier Division",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/07 09:30:00 +0000",
-                "endTime": "2026/08/07 12:30:00 +0000"
+                "startTime": "2026/08/08 10:00:00 +0000",
+                "endTime": "2026/08/08 11:59:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "Mohun Bagan SG vs Sangbad Pratidin Bhawanipore",
-                    "link": "https://live-n10.videostech.cloud/match/mohunbagansupergiant_vs_spbhawaniporefc/HLS/master.m3u8",
+                    "title": "Mohammedan SC Reserves vs Calcutta Police",
+                    "link": "https://live-n10.videostech.cloud/match/mohammedansportingclub_vs_calcuttapoliceclub/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "Calcutta Customs vs Railway FC",
-                    "link": "https://live-n10.videostech.cloud/match/calcuttacustomsclub_vs_railwayfc/HLS/master.m3u8",
+                    "title": "Coal India Spa vs Measures Club",
+                    "link": "https://live-n10.videostech.cloud/match/coalindiaspa_vs_measurersclub/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "United Kolkata SC vs Kidderpore SC",
-                    "link": "https://live-n10.videostech.cloud/match/unitedkolkatasportsclub_vs_luxurylivingkidderporesportingclub/HLS/master.m3u8",
+                    "title": "Wari Athletic Club vs Techno Aryan",
+                    "link": "https://live-n10.videostech.cloud/match/wariathleticclub_vs_aryanclub/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1025,13 +1052,13 @@
                 "eventName": "Durand cup 2026",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/05 10:30:00 +0000",
-                "endTime": "  +0000"
+                "startTime": "2026/08/08 10:30:00 +0000",
+                "endTime": "2026/08/08 16:30:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785982465~acl=/*~id=90831226283164501167456220510065~hmac=8295f6fa0391b66bf9e7426b107cf608a32922ba5b4235d68ec894fba201c9dc",
+                    "title": "Shillong Lajong FC vs Mumbay FC",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786229886~acl=/*~id=14719823539692838376837758475488~hmac=e34d1dffff0dddbdd008d1075eea66320e3d75e437f5df2ab83def81ce5c1a13",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1116,8 +1143,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FOX DEPORTES",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://tedesco.paradilux.store/cbssn.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS HD",
+                    "link": "https://admin2.paradilux.store/foxd.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1143,8 +1186,56 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "CBS SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/54335/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.191/hls/GGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://tedesco.paradilux.store/golazo.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://admin2.formaturamaxi.com.br/golazo.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2457,6 +2548,1669 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/08 16:30:00 +0000",
                 "endTime": "2026/08/08 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2414,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leeds",
+                "teamB": "Leipzig",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 13:00:00 +0000",
+                "endTime": "2026/08/08 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2415,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Frankfurt",
+                "teamB": "Hull",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 13:00:00 +0000",
+                "endTime": "2026/08/08 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2416,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Modena",
+                "teamB": "Fiorentina",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2706/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 16:00:00 +0000",
+                "endTime": "2026/08/08 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2417,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bologna",
+                "teamB": "Pisa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 15:00:00 +0000",
+                "endTime": "2026/08/08 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2418,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Stuttgart",
+                "teamB": "Everton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 15:00:00 +0000",
+                "endTime": "2026/08/08 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2419,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "PSG",
+                "teamB": "Man Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 15:00:00 +0000",
+                "endTime": "2026/08/08 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2420,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tottenham",
+                "teamB": "Getafe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2421,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Köln",
+                "teamB": "Real Sociedad",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 13:30:00 +0000",
+                "endTime": "2026/08/08 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2422,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Freiburg",
+                "teamB": "Strasbourg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 13:30:00 +0000",
+                "endTime": "2026/08/08 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2423,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brighton",
+                "teamB": "Roma",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2424,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leverkusen",
+                "teamB": "Sevilla",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 13:30:00 +0000",
+                "endTime": "2026/08/08 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2425,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Schalke",
+                "teamB": "Atalanta",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 15:00:00 +0000",
+                "endTime": "2026/08/08 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2426,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Angers",
+                "teamB": "Lorient",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 15:30:00 +0000",
+                "endTime": "2026/08/08 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2427,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ipswich",
+                "teamB": "Rayo Vallecano",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2428,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Augsburg",
+                "teamB": "Sassuolo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 13:30:00 +0000",
+                "endTime": "2026/08/08 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2429,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Coventry",
+                "teamB": "Espanyol",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 16:30:00 +0000",
+                "endTime": "2026/08/08 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2430,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mainz 05",
+                "teamB": "Paris",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 15:00:00 +0000",
+                "endTime": "2026/08/08 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2431,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Osasuna",
+                "teamB": "Al-Ain",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:00:00 +0000",
+                "endTime": "2026/08/08 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2432,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Udinese",
+                "teamB": "Forest",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:00:00 +0000",
+                "endTime": "2026/08/08 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2433,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Galatasaray",
+                "teamB": "Villarreal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:00:00 +0000",
+                "endTime": "2026/08/08 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2434,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mallorca",
+                "teamB": "Elversberg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 19:00:00 +0000",
+                "endTime": "2026/08/08 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2435,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Real Betis",
+                "teamB": "Bournemouth",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:30:00 +0000",
+                "endTime": "2026/08/08 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2436,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Valencia",
+                "teamB": "Newcastle",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 19:00:00 +0000",
+                "endTime": "2026/08/08 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2437,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Celta Fortuna",
+                "teamB": "Ourense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/263550/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:00:00 +0000",
+                "endTime": "2026/08/08 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2438,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cagliari",
+                "teamB": "Nice",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:30:00 +0000",
+                "endTime": "2026/08/08 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2439,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Napoli",
+                "teamB": "Celta",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 19:00:00 +0000",
+                "endTime": "2026/08/08 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2440,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Real Oviedo",
+                "teamB": "Le Havre",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:30:00 +0000",
+                "endTime": "2026/08/08 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2441,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Barcelona",
+                "teamB": "Forest",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:00:00 +0000",
+                "endTime": "2026/08/08 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2442,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ferencváros",
+                "teamB": "Real Madrid",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 17:00:00 +0000",
+                "endTime": "2026/08/08 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2443,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Genoa",
+                "teamB": "Deportivo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:45:00 +0000",
+                "endTime": "2026/08/08 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2444,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Udinese",
+                "teamB": "Barcelona",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 20:00:00 +0000",
+                "endTime": "2026/08/08 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2445,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brest",
+                "teamB": "Venezia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2688/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 16:30:00 +0000",
+                "endTime": "2026/08/08 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2446,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Botafogo",
+                "teamB": "Fluminense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 00:00:00 +0000",
+                "endTime": "2026/08/09 02:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2447,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Coritiba",
+                "teamB": "Chapecoense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:30:00 +0000",
+                "endTime": "2026/08/09 01:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2448,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Grêmio",
+                "teamB": "São Paulo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 19:00:00 +0000",
+                "endTime": "2026/08/08 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2449,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Remo",
+                "teamB": "Atlético-MG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 21:30:00 +0000",
+                "endTime": "2026/08/08 23:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2450,
+            "title": "Liga Profesional de Fútbol",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tigre",
+                "teamB": "River Plate",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+                "eventName": "Liga Profesional de Fútbol",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 20:00:00 +0000",
+                "endTime": "2026/08/08 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2451,
+            "title": "Liga Profesional de Fútbol",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Boca Juniors",
+                "teamB": "Vélez Sarsfield",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3208/image",
+                "eventName": "Liga Profesional de Fútbol",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 22:15:00 +0000",
+                "endTime": "2026/08/09 00:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2452,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Magdeburg",
+                "teamB": "Braunschweig",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 11:00:00 +0000",
+                "endTime": "2026/08/08 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/UUUMQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2453,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Darmstadt",
+                "teamB": "Kiel",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2576/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 11:00:00 +0000",
+                "endTime": "2026/08/08 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "beIN ENGLISH 3",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/UAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2454,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Karlsruhe",
+                "teamB": "Bielefeld",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 11:00:00 +0000",
+                "endTime": "2026/08/08 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/UUUMQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2455,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Heidenheim",
+                "teamB": "Osnabrück",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 11:00:00 +0000",
+                "endTime": "2026/08/08 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "beIN ENGLISH 1",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/UUUM.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2456,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wolfsburg",
+                "teamB": "Kaiserslautern",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:30:00 +0000",
+                "endTime": "2026/08/08 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2457,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Padres",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:15:00 +0000",
+                "endTime": "2026/08/09 02:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2458,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Brewers",
+                "teamB": "Twins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:10:00 +0000",
+                "endTime": "2026/08/09 02:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2459,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Cardinals",
+                "teamB": "Rockies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:15:00 +0000",
+                "endTime": "2026/08/09 02:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2460,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Pirates",
+                "teamB": "Mets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 22:40:00 +0000",
+                "endTime": "2026/08/09 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2461,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Marlins",
+                "teamB": "Angels",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 20:10:00 +0000",
+                "endTime": "2026/08/08 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2462,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Phillies",
+                "teamB": "Blue Jays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 22:05:00 +0000",
+                "endTime": "2026/08/09 01:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2463,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Mariners",
+                "teamB": "Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 01:50:00 +0000",
+                "endTime": "2026/08/09 04:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2464,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Diamondbacks",
+                "teamB": "Dodgers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 00:10:00 +0000",
+                "endTime": "2026/08/09 03:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2465,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Royals",
+                "teamB": "Cubs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:10:00 +0000",
+                "endTime": "2026/08/09 02:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2466,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Yankees",
+                "teamB": "Braves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 19:05:00 +0000",
+                "endTime": "2026/08/08 22:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2467,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Nationals",
+                "teamB": "Reds",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 22:45:00 +0000",
+                "endTime": "2026/08/09 01:45:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2468,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Red Sox",
+                "teamB": "Athletics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 20:10:00 +0000",
+                "endTime": "2026/08/08 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2469,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Giants",
+                "teamB": "Tigers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:15:00 +0000",
+                "endTime": "2026/08/09 02:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2470,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "White Sox",
+                "teamB": "Guardians",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:15:00 +0000",
+                "endTime": "2026/08/09 02:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2471,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Rangers",
+                "teamB": "Orioles",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:15:00 +0000",
+                "endTime": "2026/08/09 02:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2472,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Lynx",
+                "teamB": "Aces",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 17:00:00 +0000",
+                "endTime": "2026/08/08 19:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2473,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Sky",
+                "teamB": "Fever",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 19:30:00 +0000",
+                "endTime": "2026/08/08 22:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2474,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Fire",
+                "teamB": "Storm",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 00:30:00 +0000",
+                "endTime": "2026/08/09 03:00:00 +0000"
             },
             "channels_data": [
                 {
