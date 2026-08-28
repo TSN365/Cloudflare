@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:45:26 PM 27-08-2026",
+    "Last update time": "06:27:13 AM 28-08-2026",
     "Live": "00",
-    "Upcoming": "63",
+    "Upcoming": "70",
     "Finish": "00",
     "events": [
         {
@@ -21,8 +21,8 @@
                 "eventName": "ICC World Test Championship",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/27 10:00:00 +0000",
-                "endTime": "2026/08/27 19:00:00 +0000"
+                "startTime": "2026/08/28 09:50:00 +0000",
+                "endTime": "2026/08/28 19:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -158,15 +158,15 @@
             "channels_data": [
                 {
                     "title": "TNT SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
                     "tokenApi": ""
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -175,6 +175,22 @@
                 {
                     "title": "WILLOW HD",
                     "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -203,18 +219,10 @@
                 "eventName": "Top End T20 Series 2026",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/27 03:30:00 +0000",
-                "endTime": "2026/08/27 13:00:00 +0000"
+                "startTime": "2026/08/28 00:30:00 +0000",
+                "endTime": "  +0000"
             },
             "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qtokcm0bbz/out/v1/e9e16d0203c1465b96d095703df5ffaf/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "80ac52093c0bc913b1318b01158b35b5:5e308e2524fa2ddadeee157d94b4b120",
-                    "tokenApi": ""
-                },
                 {
                     "title": "WILLOW HD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
@@ -270,8 +278,8 @@
                 "eventName": "European T20 Premier League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/27 09:30:00 +0000",
-                "endTime": "2026/08/27 17:30:00 +0000"
+                "startTime": "2026/08/28 13:15:00 +0000",
+                "endTime": "2026/08/28 17:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -1092,8 +1100,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf3/chunks.m3u8?is_vip=false&token=1787932964-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a35e7e610958684eb482c33336c48030|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.42/hls/BSSSAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.42/hls/BSSSAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1119,8 +1143,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://live1.ftlcbx.com/live/73398326_f1ebaecc38d246c75cff04de19ab56c1_540p.m3u8?auth_key=1787860633-0-0-af3fa889f6427761fb159100a2cb15b5|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.42/hls/BSSSAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22eda8/chunks.m3u8?is_vip=false&token=1787932967-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d1eabd0f89b3de3b961c7ced23db355c|Referer=https://iframe.rumsport8.live",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1146,8 +1186,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://live2.ftlcbx.com/live/73398356_22f9d0a48c39c0904349f99884739aa0_540p.m3u8?auth_key=1787864746-0-0-45181865e26477aac445573b8824ea90|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.49/hls/nnnnAAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf2-backup/chunks.m3u8?is_vip=false&token=1787937488-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0e90cd3f11ac8c31473e29165280c6a|Referer=https://iframe.rumsport8.live",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1275,8 +1331,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bef/chunks.m3u8?is_vip=false&token=1787936597-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-76ab61e3bbc696bd371d4ad615e86b11|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.49/hls/nnnnAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/kauno-besiktas-c2/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787853421-0-0-617f530bb82850fb8f5778e4f8c99d6d",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1302,8 +1382,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf6/chunks.m3u8?is_vip=false&token=1787936594-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0752f9d22fd161a8e633653dcf2187a2|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.49/hls/nnnnAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://messi.damitv.st/live-hls/channel/uefa-europa-league/2026-08-27/omon-stvv/playlist.m3u8?tk=ATwhYB7O6p69sp0jWj2-Og&e=1787890274|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1329,8 +1425,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/uefa-europa-league/2026-08-27/plz-rsb/playlist.m3u8?tk=ATwhYB7O6p69sp0jWj2-Og&e=1787890274|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/viktoria-crvena-c2/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://flv.lauthaitv.cc/live/viktoria-crvena-c2.flv",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1356,8 +1468,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4608889.m3u8?txSecret=9310e6b840a5b5f019a518c73451ce1f&txTime=6A90723D|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.42/hls/ygggaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1383,8 +1511,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf4/chunks.m3u8?is_vip=false&token=1787936595-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-48a1b1e55b65f67ef5e4fa885198e6a2|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.49/hls/nnnnAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1453,8 +1589,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4608892.m3u8?txSecret=b48673d176aaf669822df3298136e234&txTime=6A90729F|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c08-backup/chunks.m3u8?is_vip=false&token=1787936570-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-214b4350d3d4a8a45fb2ce3fd05e2ba7|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://live1.ftlcbx.com/live/73399176_234d06642b74d401a6d75b2537319f48_540p.m3u8?auth_key=1787863439-0-0-929c651964e19a856e739c221967ddad|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niues.live/live/stream-9912135_lsd.m3u8?auth_key=1787853421-0-0-a389e91e722928914f92cb4a883f3ebd",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1480,8 +1640,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c04/chunks.m3u8?is_vip=false&token=1787936586-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c86133f94101ee2937061c54117ee503|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.43/hls/RARARAAAa.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1507,8 +1675,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c01/chunks.m3u8?is_vip=false&token=1787936583-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dae860680a2dc44737a778b19a5447a0|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.57/hls/aaaaff.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1561,8 +1737,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SPORT TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55301/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4608876.m3u8?txSecret=0139e1f43478e2bac3af3749aa04956e&txTime=6A908E51|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://tmaxapp.site/pt658svs/sporttv5.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/YYYYAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1588,8 +1788,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c07/chunks.m3u8?is_vip=false&token=1787936585-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-835e225bb0efaac1f213ce43bfeda90a|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.57/hls/aaaafff.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1615,8 +1823,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bfc-backup/chunks.m3u8?is_vip=false&token=1787936598-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15ad6ccf28e1e60e9d2da0f19b71fe0b|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.57/hls/aaaaffffff.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bfc/chunks.m3u8?is_vip=false&token=1787936599-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f2991f68af6601a5155a63162b1344f6|Referer=https://iframe.rumsport8.live",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1642,8 +1866,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/YYYYAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1669,8 +1893,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c0c/chunks.m3u8?is_vip=false&token=1787936587-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00697b709178e25e91573a653dfc8215|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.57/hls/aaaafffff.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1696,8 +1928,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c03/chunks.m3u8?is_vip=false&token=1787936575-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e49d0ba05efcde52127a6a7c264d25f8|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.57/hls/aaaaffff.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1723,8 +1963,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c0b/chunks.m3u8?is_vip=false&token=1787936588-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eba3b5d6c24d7668178b2b8d27509f64|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.49/hls/nnnnA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1750,8 +1998,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SPORT TV HD",
+                    "link": "https://tmaxapp.site/pt658svs/sporttv4.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4608919.m3u8?txSecret=8bae669bcee01fc5d07c84ddfc1d25a1&txTime=6A908E9D|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/YYYY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1777,8 +2041,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/YYYYA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=5fea3353f2366e515904f05ab6a60e30&txTime=6a90a4a6",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1804,8 +2076,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FAST SERVER",
+                    "link": "https://live2.ftlcbx.com/live/73398360_48d52db362b4864f0891eb61a3d0ea69_540p.m3u8?auth_key=1787869550-0-0-214e4a0e7d61ba24804d5f9a94aea692|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.43/hls/RARARAAAaa.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bf1-backup/chunks.m3u8?is_vip=false&token=1787942006-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-288d33a93da871abb95450f4106cbb5b|Referer=https://iframe.rumsport8.live",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1831,8 +2119,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ESPN DEPORTES",
+                    "link": "https://chatgpt.hereisman.net/playlist/55313/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4565318.m3u8?txSecret=b76d6f429e798fae17a63a7a18205e98&txTime=6A909266|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN SPORTS AR",
+                    "link": "https://letsstream102.top/stream/stream15/playlist.m3u8?|Referer=https://letsstream102.top/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.43/hls/RARARA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1858,8 +2178,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.47/hls/YYYYAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1885,8 +2205,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4608855.m3u8?txSecret=05a55cd39ffdb2c4e3755c8340360ef5&txTime=6A9092B9|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.43/hls/RARARAAAaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1912,12 +2240,54 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4608898.m3u8?txSecret=9f357b36a2cc16514ba089e3896904a0&txTime=6A9092E2|Referer=https://player.online909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.49/hls/nnnn.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT HD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://dlstreams.st/stream/stream-170.php|referer=https://dlhd.st/",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "POLSAT SPORT EXTRA 2",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://dlstreams.st/stream/stream-994.php|referer=https://dlhd.st/",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -1939,8 +2309,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.43/hls/RARARAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1966,8 +2336,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FAST SERVER",
+                    "link": "https://live5.ftlcbx.com/live/73399236_93063457eba81774b566d00299dfceaf_540p.m3u8?auth_key=1787869550-0-0-a601c4a1f78413da12ca52923a0600ad|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.43/hls/RARARAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24bfa-backup/chunks.m3u8?is_vip=false&token=1787942002-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8776f176ceddb5f7187ba9d3cb0baf9f|Referer=https://iframe.rumsport8.live",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1993,12 +2379,37 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4608910.m3u8?txSecret=4c72bbc467dec49cbe83e0b27fa8ee0b&txTime=6A909502|Referer=https://player.online909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.43/hls/RARARAAAaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Paramount+ HD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://dlstreams.st/stream/stream-171.php|referer=https://dlhd.st/",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -2016,12 +2427,68 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/08/27 19:00:00 +0000",
-                "endTime": "2026/08/27 21:20:00 +0000"
+                "endTime": "2026/08/27 21:50:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beiN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SETANTA SPORTS FHD",
+                    "link": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ESPN DEPORTES HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55314/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4565321.m3u8?txSecret=12a642042790c071e4b63eb0c72574fa&txTime=6A90944A|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.52/hls/SAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2047,8 +2514,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mkf3fqe1d8/out/v1/d959ef9d201841ae8e9ae484bd8a4348/b378593a-4a82-4883-936f-e9634e5e9f05-cenc.mpd?aws_sessionId=1f1682de-9456-4869-b659-5de0b804ed39|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e6bd14cd30f636ef4d7f116a89d560fa:7b8d8443405e25cfe0f17e3f359c3ee1",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beiN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SETANTA SPORTS FHD",
+                    "link": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports2_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports2_HD_H.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "60c452c4bc688bfdbebbe1a57fd5e59e:6d8296110d58f2fa54ddd2a31e5e900c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN SPORTS AR",
+                    "link": "https://letsstream102.top/stream/stream14/playlist.m3u8?|Referer=https://letsstream102.top/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4613216.m3u8?txSecret=ca1265b654ab0acaec478c19812baf82&txTime=6A909297|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.48/hls/SAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2074,8 +2581,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2101,8 +2608,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55304/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2128,8 +2643,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2155,8 +2670,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2182,8 +2697,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2209,8 +2724,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2236,8 +2751,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55311/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2263,8 +2786,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2290,59 +2813,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3093,
-            "title": "UEFA Champions League Draw",
-            "image": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "UCL DRAW ",
-                "teamB": "UCL DRAW ",
-                "teamAFlag": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
-                "teamBFlag": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
-                "eventName": "UEFA Champions League Draw",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/27 16:00:00 +0000",
-                "endTime": "2026/08/27 17:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "UEFA TV FHD",
-                    "link": "https://live-uefa-com.akamaized.net/hls/live/2036934/270826_2627UCL/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TNT SPORTS",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CBS NETWORK",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Leag2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2402,6 +2874,262 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.51/hls/AUUU.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3095,
+            "title": "NFL Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Raiders",
+                "teamB": "49ers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4390/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4389/image",
+                "eventName": "NFL Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/28 00:00:00 +0000",
+                "endTime": "2026/08/28 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/qsdnajbq32.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3096,
+            "title": "NFL Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Bills",
+                "teamB": "Steelers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+                "eventName": "NFL Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 23:00:00 +0000",
+                "endTime": "2026/08/28 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3097,
+            "title": "NFL Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Browns",
+                "teamB": "Patriots",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4417/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
+                "eventName": "NFL Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/28 00:00:00 +0000",
+                "endTime": "2026/08/28 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3098,
+            "title": "NFL Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Chargers",
+                "teamB": "Rams",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4429/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+                "eventName": "NFL Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/28 02:00:00 +0000",
+                "endTime": "2026/08/28 05:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/yetehznecs37.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream2.pro/hls/oipozuezeji33.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3099,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fulham",
+                "teamB": "Wimbledon",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23957/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 19:00:00 +0000",
+                "endTime": "2026/08/27 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "CBS NETWORK",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SportCast FHD",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3a67fb4b-eba1-4a16-be73-fb78d3b6f7df/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4613219.m3u8?txSecret=66a1429207b7616414e052d90854fc1d&txTime=6A90948C|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.52/hls/SAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3100,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Partizan",
+                "teamB": "Getafe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5152/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 19:00:00 +0000",
+                "endTime": "2026/08/27 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.58/hls/TTTTAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3101,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hibernian",
+                "teamB": "Gent",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2903/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 19:00:00 +0000",
+                "endTime": "2026/08/27 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4608905.m3u8?txSecret=78c564b94f0379d5740197803534e2ff&txTime=6A90955F|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.58/hls/TTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3102,
+            "title": "T20I Tri-Series in Namibia",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "NAM",
+                "teamB": "SA",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+                "eventName": "T20I Tri-Series in Namibia",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/28 12:00:00 +0000",
+                "endTime": "2026/08/28 16:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
