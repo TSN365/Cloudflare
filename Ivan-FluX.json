@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:10:00 AM 17-09-2026",
+    "Last update time": "03:48:18 AM 17-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1607,7 +1607,7 @@
             },
             "channels_data": [
                 {
-                    "title": "SD link",
+                    "title": "HD SERVER",
                     "link": "http://193.47.62.41/hls/fpppAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -1793,8 +1793,32 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.41/hls/UGGGQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://live.uu6611.com/live/sd-1-4628315.m3u8?txSecret=08da7136c00a566ec44ea354d1ede348&txTime=6AAB2839|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream4.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/9fff84ad-c0aa-4e55-a108-ab44ff5ccfa5.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/UGGGQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1820,24 +1844,32 @@
             },
             "channels_data": [
                 {
-                    "title": "BEIN AQ",
-                    "link": "https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/h7khhxcker/out/v1/28c1344e65d74f48b359b8cb5d3455ad/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "70f29740fef420b14512a95359619f70:ab11a68859691d4fe835525908ea4040",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD LINK",
-                    "link": "https://live.vivo155.com/live/sd-1-4628323.m3u8?txSecret=83b953f7c3156acedd7be38d22f60464&txTime=6AAAF6EC|referer=https://player.online909.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo155.com%2Flive%2Fsd-1-4628323.m3u8%3FtxSecret%3D83b953f7c3156acedd7be38d22f60464%26txTime%3D6AAAF6EC",
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://live.uu6611.com/live/sd-1-4628323.m3u8?txSecret=3b72a88d1ffd8ebdb353756f9459bb32&txTime=6AAB2870|Referer=https://player.up909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.41/hls/fpppAAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/4aba2f9a-5b76-448e-8bc1-e9d535c6dd46.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/fpppAAAAAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1863,16 +1895,40 @@
             },
             "channels_data": [
                 {
-                    "title": "CBS NETWORK",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q7i4w93kwj/out/v1/e83991edb40c45d0b7a0b557e13f9422/cenc.mpd",
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56537/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
-                    "api": "5f10681dabdf5f769393586b6af7be17:ba7a206d73db5b91ad54941a64d20922",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.41/hls/UGGGQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/sd-1-4628313.m3u8?txSecret=d1ca57f9a50d4adecf1b3f6615c61974&txTime=6AAB2DDD|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/377b7155-61f0-47d5-bc50-90c81c3377db.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/UGGGQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1898,6 +1954,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vcg5fqwdzj/out/v1/c5f32da34c3643e1827a123baa788694/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2e9dac8a174a9376c34c5070b8cfbdb8:173a24ae75ad5d1bd0efca071958c19c",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1906,16 +1970,56 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "ITV SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD LINK",
-                    "link": "http://193.47.62.44/hls/LCCC.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SKY MAIN EVENT",
+                    "link": "https://chatgpt.hereisman.net/playlist/56538/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC FHD",
+                    "link": "https://baila-lentoo.pages.dev/beinxmq/bein-sports-4.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/2c17625d-9771-4f82-a9b4-90c6b8967a9a.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/2c17625d-9771-4f82-a9b4-90c6b8967a9a.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.55/hls/LCCC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1941,8 +2045,8 @@
             },
             "channels_data": [
                 {
-                    "title": "CBS AQ",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sak1qjipze/out/v1/825db3d530c64f5094a3c3c126a8fbf1/cenc.mpd",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sak1qjipze/out/v1/825db3d530c64f5094a3c3c126a8fbf1/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "ac057cd38952e1b31aa23adf32a84c14:f351b462406ec1740c335aee2eb54770",
@@ -1957,8 +2061,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.59/hls/TBBBQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630512.m3u8?txSecret=8bff10a1152846aa19056dd61512ef4e&txTime=6AAB2AF8|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/1436d9e8-1670-4cbe-bcf4-c3ec6bd1afb6.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.59/hls/TBBBQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1984,8 +2104,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "http://193.47.62.44/hls/TBBBQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vypvd4addk/out/v1/b0a220192e4e4e44be52c8659e52b2f2/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a73d0c3591f9e36f1ea97f3a96873e0a:93c39eb1fc68e9c4a370e10b566b8d10",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630668.m3u8?txSecret=64f4f956889cf31752983a0dcd5f1940&txTime=6AAB2B20|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/9b4a8708-7c01-4fbb-b423-33712e8b3790.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.44/hls/TBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2011,14 +2155,6 @@
             },
             "channels_data": [
                 {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "tokenApi": ""
-                },
-                {
                     "title": "D SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2027,16 +2163,32 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "CazéTV FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "title": "ESPN DEPORTES HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56541/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
-                    "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.41/hls/UGGGQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4565415.m3u8?txSecret=7b6609913e7bd370ceff9260cdbc3140&txTime=6AAB2F6A|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/ad7c9537-c34d-4699-aa14-52c32c34a401.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/UGGGQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2062,8 +2214,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORT TV HD",
+                    "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2089,8 +2257,24 @@
             },
             "channels_data": [
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.44/hls/TBBB.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630554.m3u8?txSecret=48ea3e4c3132251f9b70dc571f8efa3e&txTime=6AAB29F2|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/ce65f05a-7433-430e-a373-b855e0783fd3.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.44/hls/TBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2116,8 +2300,32 @@
             },
             "channels_data": [
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.50/hls/TBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fakw3thfcr/out/v1/eff631cd2b3e429990fc48d3991d72ed/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "30b84d23ff933a367a5b1221e48a4585:2c3d983d31681af311b732b9df43aafc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630619.m3u8?txSecret=09e71671e6a242a2d5bd0457e799d7ef&txTime=6AAB28DD|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/9eb9d3bd-c8d1-4b06-bd46-c6b6d08106f0.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.50/hls/TBBBQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2151,8 +2359,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.59/hls/TBBBQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630500.m3u8?txSecret=2a4fecbd08ca38fa44005b39a669d8f4&txTime=6AAB2A15|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/4d152f88-4011-4e29-8ed2-c873e27302fe.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.59/hls/TBBBQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2245,8 +2469,8 @@
             },
             "channels_data": [
                 {
-                    "title": "CBS AQ",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0262lte4yu/out/v1/522fc051514f4086b25c615d1747e632/cenc.mpd",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0262lte4yu/out/v1/522fc051514f4086b25c615d1747e632/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "fcd92a4bea1792fb7cabf3c91d6bde1a:72db5bc1528c1436f9873fa8d098bc42",
@@ -2261,8 +2485,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.50/hls/TBBBQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630495.m3u8?txSecret=c99453eb90447ed5230c91920cd826db&txTime=6AAB29AA|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/94a12e15-eb5c-4e64-a2da-b50f0363b3f6.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.50/hls/TBBBQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2390,7 +2630,7 @@
             },
             "channels_data": [
                 {
-                    "title": "CBS AQ",
+                    "title": "PARAMOUNT+ FHD",
                     "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zxirsx3ocj/out/v1/122b732d17884c5787a8a6806910fef1/cenc.mpd",
                     "logo": "",
                     "type": 0,
@@ -2408,6 +2648,14 @@
                 {
                     "title": "SD LINK",
                     "link": "http://193.47.62.55/hls/TBBBQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630670.m3u8?txSecret=c4922cf0732a0107497cae7418195947&txTime=6AAB28B5|Referer=https://player.up909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2460,8 +2708,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2514,8 +2762,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream6.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2541,8 +2789,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream6.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2568,8 +2816,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2630,8 +2878,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2657,8 +2905,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2719,8 +2967,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2746,8 +2994,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream6.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2773,8 +3021,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2800,8 +3048,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream1.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2854,8 +3102,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
