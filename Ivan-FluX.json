@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:59:29 PM 13-10-2026",
+    "Last update time": "11:13:11 PM 13-10-2026",
     "Live": "00",
-    "Upcoming": "26",
+    "Upcoming": "74",
     "Finish": "00",
     "events": [
         {
@@ -26,27 +26,43 @@
             },
             "channels_data": [
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|referer=https://tapmad.com/",
+                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd",
+                    "title": "TAMASHA FHD",
+                    "link": "https://gcpcdn2.tamashaweb.com/live/main.m3u8?timeshift=1",
                     "logo": "",
                     "type": 0,
-                    "api": "d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/krrr.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -55,14 +71,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.59/hls/NCCC.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -372,16 +380,16 @@
                 "eventName": "World Championship of Legends",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/13 11:20:00 +0000",
+                "startTime": "2026/10/13 15:30:00 +0000",
                 "endTime": "2026/10/13 20:15:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2obepsx4jx/out/v1/0fd776498ea149a2893b6ba533f5a7aa/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "12cdb08af9c2f9c7667a3c3c58ed9443:1679c9c3398400a552e34e9f5153bc78",
+                    "api": "07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6",
                     "tokenApi": ""
                 },
                 {
@@ -402,10 +410,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2obepsx4jx/out/v1/0fd776498ea149a2893b6ba533f5a7aa/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "12cdb08af9c2f9c7667a3c3c58ed9443:1679c9c3398400a552e34e9f5153bc78",
+                    "api": "07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6",
                     "tokenApi": ""
                 },
                 {
@@ -915,8 +923,8 @@
                 "eventName": "Indian Super League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/12 14:00:00 +0000",
-                "endTime": "2026/10/12 16:20:00 +0000"
+                "startTime": "2026/10/14 14:00:00 +0000",
+                "endTime": "2026/10/14 16:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -946,41 +954,6 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2662,
-            "title": "Golf Events",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-            "cat": "Others",
-            "eventInfo": {
-                "teamA": "GOLF EVENTOS",
-                "teamB": "GOLF EVENTOS",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-                "eventName": "Golf Events",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/19 08:30:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SK GOLF HD",
-                    "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7277/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "GOLF CHANNEL HD",
-                    "link": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1257,33 +1230,76 @@
             ]
         },
         {
-            "id": 4473,
-            "title": "AFC Champions League Elite",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "id": 4479,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
             "cat": "Football",
             "eventInfo": {
-                "teamA": "Port",
-                "teamB": "Daejeon Hana",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/41537/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/7645/image",
-                "eventName": "AFC Champions League Elite",
+                "teamA": "East Bengal",
+                "teamB": "Shorta",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
+                "eventName": "AFC Champions League Two",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/13 10:00:00 +0000",
-                "endTime": "2026/10/13 12:20:00 +0000"
+                "startTime": "2026/10/13 13:45:00 +0000",
+                "endTime": "2026/10/13 16:05:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4621467.m3u8?txSecret=e5debd78ae89d78554e7354bce0e12e8&txTime=6ACE1042|Referer=https://player.online878.com/",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SportKlub HD",
-                    "link": "https://netanjahu.hls.st/t/7d306d273e62ab55caa078a99b80c758/index.m3u8?|Referer=https://iplayer.is/",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/emmm.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4480,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Buriram",
+                "teamB": "Guoan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3376/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 12:15:00 +0000",
+                "endTime": "2026/10/13 14:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4621493.m3u8?txSecret=2a6fb305dee918ecd72a3ab153cfb90a&txTime=6ACE33FF|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/FJJJAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1291,7 +1307,192 @@
                 },
                 {
                     "title": "HD SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4621467.m3u8?txSecret=68688bf02f7838631858a541dc5d0ba3&txTime=6ACE1042|Referer=https://player.online878.com/",
+                    "link": "https://live.vivo155.com/live/sd-1-4621493.m3u8?txSecret=f7daab5881268f0463595e2213d98de6&txTime=6ACE33FF|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4481,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Công An Hà Nội",
+                "teamB": "Kashima",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/193616/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3134/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 12:15:00 +0000",
+                "endTime": "2026/10/13 14:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4621516.m3u8?txSecret=8f6298c1905ae201ae734afe9b492b16&txTime=6ACE3435|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4621516.m3u8?txSecret=a03fea51124ec538a2a9e11cc33b450e&txTime=6ACE3435|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/FJJJAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4482,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Sadd",
+                "teamB": "Al-Hilal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/39733/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 16:00:00 +0000",
+                "endTime": "2026/10/13 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/I888AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4483,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lens",
+                "teamB": "Sporting",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 16:45:00 +0000",
+                "endTime": "2026/10/13 19:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yf6hxmrroh/out/v1/c5e002cdfab14317a81975fffe4e57e9/346bec4d-abb8-4ca1-ba5e-0b05415fcd05-cenc.mpd?aws_sessionId=3063499d-3ef6-4d07-b0a7-5034c6515597",
+                    "logo": "",
+                    "type": 0,
+                    "api": "56ba60f3859d187038540233f232658a:d742441d9646031691d12f6b1cb0b6a0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbi880xife/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd?aws_sessionId=da4ff0f6-f627-4b99-8140-3c5b208e59c8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e769be6519e4b0e4fd5099357ecc147c:fea0e2b7fd2b1f07588132d56fe078eb",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/863a4f6350b6058ec7191aef2b169519/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://netanjahu.hls.st/t/aede269f3d3925aaec921b45714b9bf8/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/90c51b2fa29b392ba99fdc8a04e02301/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ARENA SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/8e9ebd44fd87cb737846bbceddbbbe0c/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ZIGGO SPORT HD",
+                    "link": "https://netanjahu.hls.st/t/72daf7bd23d3c31e963702f8ed09e135/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CANAL+ SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/aa94c2688d5e9d80b7e820dc5fc4f0ac/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628445.m3u8?txSecret=ce707c15648209ff0604a55b63ea6087&txTime=6ACE6E5D|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/6683df5e-b1a0-4833-970d-756f530bea18.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1299,15 +1500,23 @@
                 },
                 {
                     "title": "HD SERVER+",
-                    "link": "https://www.rtmpcdn.com/live/f325f4bc-3b78-4ad4-80c9-c77b65520d86.m3u8",
+                    "link": "https://edgestream1.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/BABABAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/H999.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791952171~acl=/*~id=04425243720314770973135644134504~hmac=5689d21b45ae003c3a4b998e2b6a80f06ec245dd8bf1652c811d23114a7ccc4f",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1316,25 +1525,116 @@
             ]
         },
         {
-            "id": 4474,
-            "title": "AFC Champions League Elite",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "id": 4484,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
             "cat": "Football",
             "eventInfo": {
-                "teamA": "Kyoto Sanga",
-                "teamB": "Ratchaburi",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3149/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/85743/image",
-                "eventName": "AFC Champions League Elite",
+                "teamA": "Al Seeb",
+                "teamB": "Al-Hussein Irbid",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
+                "eventName": "AFC Champions League Two",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/13 10:00:00 +0000",
-                "endTime": "2026/10/13 12:20:00 +0000"
+                "startTime": "2026/10/13 16:00:00 +0000",
+                "endTime": "2026/10/13 18:20:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4621547.m3u8?txSecret=668a93fb6552e2b55922518026538766&txTime=6ACE0FF9|Referer=https://player.online878.com/",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/I888AAAAQQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4485,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sabah",
+                "teamB": "Slavia Praha",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/267828/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2216/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 16:45:00 +0000",
+                "endTime": "2026/10/13 19:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/e0sjaaepmg/out/v1/f2965d1e22694d6a9d400b5044f082d0/e37f6c33-7547-4df8-898c-a91c85ca749c-cenc.mpd?aws_sessionId=f92c2fb9-1098-420a-a25e-438b2477a0a5",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0d29b6b16d339227a48c34cc7db653e6:c3ae68f8dd22965c21c9045d62db98dc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mfm0oerz72/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd?aws_sessionId=94235c70-be88-4031-a867-cd193556024d",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cf3ca9dfdd220846534578d88622d97d:7ce518f3de991da7be500f8458b7d6bb",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628494.m3u8?txSecret=e8f2370dfc82be127e3afdfb6c6d0f7e&txTime=6ACE6E8C|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/4057f8a17a2ed443be386f9313363890/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://netanjahu.hls.st/t/e2a225fb776182522f012d64978e7761/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/2a7c1758eac7765117c59ed96a89ada3/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ARENA SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/d3509e68fddfbb64da3d78fa73f1cb6e/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Ziggo Sports HD",
+                    "link": "https://netanjahu.hls.st/t/70f56dc6f848eb8a2d1989690d9603c4/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1342,50 +1642,15 @@
                 },
                 {
                     "title": "HD SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4621547.m3u8?txSecret=773bc378ada032f240c8754ec66eb7df&txTime=6ACE0FF9|Referer=https://player.online878.com/",
+                    "link": "https://www.rtmpcdn.com/live/77821c7a-a46b-46ed-b327-57c62acbbddf.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER+",
-                    "link": "https://www.rtmpcdn.com/live/b77997dc-9ec8-4407-b5f5-1491143b5109.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/BABABA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4475,
-            "title": "AFC Champions League Elite",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Newcastle Jets",
-                "teamB": "Gamba Osaka",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-                "eventName": "AFC Champions League Elite",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/13 07:45:00 +0000",
-                "endTime": "2026/10/13 10:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4621505.m3u8?txSecret=57e3f6696b14b4db55f213d71e05b605&txTime=6ACDF3F8|Referer=https://player.online878.com/",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.55/hls/H999A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1393,15 +1658,15 @@
                 },
                 {
                     "title": "HD SERVER",
-                    "link": "https://www.rtmpcdn.com/live/79eed6c2-1233-4e93-a910-62f7421a6e07.m3u8",
+                    "link": "https://edgestream7.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.50/hls/REEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791952171~acl=/*~id=04425243720314770973135644134504~hmac=5689d21b45ae003c3a4b998e2b6a80f06ec245dd8bf1652c811d23114a7ccc4f",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1410,49 +1675,25 @@
             ]
         },
         {
-            "id": 4477,
+            "id": 4486,
             "title": "AFC Champions League Elite",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
             "cat": "Football",
             "eventInfo": {
-                "teamA": "Pohang Steelers",
-                "teamB": "JDT",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7650/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3327/image",
+                "teamA": "Al-Ittihad",
+                "teamB": "Shabab Al-Ahli",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/264111/image",
                 "eventName": "AFC Champions League Elite",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/13 10:00:00 +0000",
-                "endTime": "2026/10/13 12:20:00 +0000"
+                "startTime": "2026/10/13 18:15:00 +0000",
+                "endTime": "2026/10/13 20:35:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4621535.m3u8?txSecret=01feadf769b692d5b0c26dfffe2e731d&txTime=6ACE1019|Referer=https://player.online878.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://www.rtmpcdn.com/live/ba41a433-fdc3-4d61-a4b3-ec426b99d5aa.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4621535.m3u8?txSecret=b5fe052409e5f4d5846fb004cbb86a6d&txTime=6ACE1019|Referer=https://player.online878.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/BABABAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1461,28 +1702,1243 @@
             ]
         },
         {
-            "id": 4478,
-            "title": "ICC CWC League 2",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
-            "cat": "Cricket",
+            "id": 4487,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
             "eventInfo": {
-                "teamA": "OMA",
-                "teamB": "NEP",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/199279/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-                "eventName": "ICC CWC League 2",
+                "teamA": "Wolves",
+                "teamB": "Bolton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
+                "eventName": "Championship",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/13 05:30:00 +0000",
-                "endTime": "2026/10/13 13:30:00 +0000"
+                "startTime": "2026/10/13 18:45:00 +0000",
+                "endTime": "2026/10/13 21:05:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "ICC TV FHD",
-                    "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791897463~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=7c1b6f8851a091df792cf337efdb8d76c4c0fad4e88b05a156241fc6bf19436f/manifest.mpd?vcfilter=3381d5e4-3a87-48d3-a524-8b0e11b75516|user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
-                    "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4488,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter",
+                "teamB": "Club Brugge",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2888/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4489,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burnley",
+                "teamB": "Charlton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 18:45:00 +0000",
+                "endTime": "2026/10/13 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4490,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wrexham",
+                "teamB": "West Brom",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 18:45:00 +0000",
+                "endTime": "2026/10/13 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4491,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Atlético Madrid",
+                "teamB": "Man Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4492,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Millwall",
+                "teamB": "Swansea",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 18:45:00 +0000",
+                "endTime": "2026/10/13 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4493,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cardiff",
+                "teamB": "Watford",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 18:45:00 +0000",
+                "endTime": "2026/10/13 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4494,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bristol City",
+                "teamB": "Blackburn",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 18:45:00 +0000",
+                "endTime": "2026/10/13 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4495,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Arsenal",
+                "teamB": "Lille",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4496,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Galatasaray",
+                "teamB": "Barcelona",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4497,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Viking",
+                "teamB": "Bayern",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1164/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4498,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leipzig",
+                "teamB": "PSV",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4499,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Villarreal",
+                "teamB": "Napoli",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4500,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Stoke",
+                "teamB": "Middlesbrough",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4501,
+            "title": "UEFA Youth League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "LASK Linz U19",
+                "teamB": "Liverpool U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1271520/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/90134/image",
+                "eventName": "UEFA Youth League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 10:00:00 +0000",
+                "endTime": "2026/10/14 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4502,
+            "title": "UEFA Youth League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bodo/Glimt U19",
+                "teamB": "Dortmund U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/295469/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/43719/image",
+                "eventName": "UEFA Youth League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 09:00:00 +0000",
+                "endTime": "2026/10/14 11:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4503,
+            "title": "UEFA Youth League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kairat Almaty U19",
+                "teamB": "Mladost DG U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/232531/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1079672/image",
+                "eventName": "UEFA Youth League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 10:00:00 +0000",
+                "endTime": "2026/10/14 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4504,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Boca Juniors",
+                "teamB": "Vasco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 00:30:00 +0000",
+                "endTime": "2026/10/14 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4505,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Birmingham",
+                "teamB": "Preston",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 19:00:00 +0000",
+                "endTime": "2026/10/13 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4506,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Melbourne Victory",
+                "teamB": "FC Seoul",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7646/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 07:45:00 +0000",
+                "endTime": "2026/10/14 10:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4507,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Vissel Kobe",
+                "teamB": "Jeonbuk",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 10:00:00 +0000",
+                "endTime": "2026/10/14 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4508,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kashiwa",
+                "teamB": "Port FC",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 10:00:00 +0000",
+                "endTime": "2026/10/14 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4509,
+            "title": "UEFA Youth League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Shakhtar U19",
+                "teamB": "AEK U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/107723/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/297065/image",
+                "eventName": "UEFA Youth League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 11:00:00 +0000",
+                "endTime": "2026/10/14 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4510,
+            "title": "UEFA Youth League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Feyenoord U19",
+                "teamB": "Como U20",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/197177/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/206254/image",
+                "eventName": "UEFA Youth League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 11:00:00 +0000",
+                "endTime": "2026/10/14 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4511,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Rays",
+                "teamB": "Guardians",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 00:00:00 +0000",
+                "endTime": "2026/10/14 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4512,
+            "title": "NBA Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Thunder",
+                "teamB": "Pacers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+                "eventName": "NBA Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 00:00:00 +0000",
+                "endTime": "2026/10/14 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4513,
+            "title": "NBA Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Magic",
+                "teamB": "Cavaliers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+                "eventName": "NBA Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 23:00:00 +0000",
+                "endTime": "2026/10/14 01:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4514,
+            "title": "NBA Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Raptors",
+                "teamB": "Knicks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+                "eventName": "NBA Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 23:00:00 +0000",
+                "endTime": "2026/10/14 01:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4515,
+            "title": "NBA Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Kings",
+                "teamB": "Trail Blazers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+                "eventName": "NBA Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 02:00:00 +0000",
+                "endTime": "2026/10/14 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4516,
+            "title": "NBA Preseason",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Lakers",
+                "teamB": "Warriors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+                "eventName": "NBA Preseason",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 02:00:00 +0000",
+                "endTime": "2026/10/14 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4517,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Flyers",
+                "teamB": "Kraken",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 23:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4518,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Mammoth",
+                "teamB": "Maple Leafs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 01:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4519,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Jets",
+                "teamB": "Wild",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 00:15:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4520,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Sharks",
+                "teamB": "Bruins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 03:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4521,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Senators",
+                "teamB": "Blues",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 23:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4522,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Hurricanes",
+                "teamB": "Capitals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 22:45:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4523,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Ducks",
+                "teamB": "Flames",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 01:45:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4524,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Canadiens",
+                "teamB": "Sabres",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 22:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4525,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Kings",
+                "teamB": "Oilers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 02:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4526,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Islanders",
+                "teamB": "Canucks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 23:45:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4527,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Red Wings",
+                "teamB": "Devils",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 22:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4528,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Blackhawks",
+                "teamB": "Penguins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4529,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Blue Jackets",
+                "teamB": "Panthers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 22:15:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4530,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Rangers",
+                "teamB": "Lightning",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/13 23:15:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4531,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Predators",
+                "teamB": "Golden Knights",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 00:45:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4532,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Stars",
+                "teamB": "Avalanche",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/14 00:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
