@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:08:25 PM 24-10-2026",
+    "Last update time": "10:25:48 PM 24-10-2026",
     "Live": "00",
-    "Upcoming": "90",
+    "Upcoming": "115",
     "Finish": "00",
     "events": [
         {
@@ -80,8 +80,8 @@
                 "eventName": "T20 International",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/24 07:00:00 +0000",
-                "endTime": "2026/10/24 11:45:00 +0000"
+                "startTime": "2026/10/27 07:00:00 +0000",
+                "endTime": "2026/10/27 11:45:00 +0000"
             },
             "channels_data": [
                 {
@@ -1680,11 +1680,43 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fnfhwm2hoc/out/v1/fff96aa004f94d91b551ac1c7372f1ce/d4cfa5ea-af1c-4eec-9b40-9e51e70d79b1-cenc.mpd?aws_sessionId=7ea2f5a8-b2f7-45ab-991e-1998535b6e12",
+                    "logo": "",
+                    "type": 0,
+                    "api": "344bb58b08e1a1f6d71e020a345d46e5:d5170f6bafcfd57b7c7730b3e909f1ac",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/0kfjco8cxe/out/v1/ee234bf8b2854366834b938725860805/da85fc0e-0cc3-4ff8-b6b1-e1bc98dfef3d-cenc.mpd?aws_sessionId=62e1e24c-2d63-4cc6-89d4-20347dcc14f0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "66ffa69081373b65a6326f85d1b26861:f1ee3e0de844112076748ba184599f1e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SPORT 1 CZ FHD",
                     "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58486/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/38825fa3-23ba-4810-ba22-9487ceed422b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -1715,6 +1747,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/42mkstwque/out/v1/24eef53632ee4f0aa2e42263a56c3d6c/8dc884e7-90e6-4770-8af3-cbdba7468bbe-cenc.mpd?aws_sessionId=7ffdcf43-c0c2-4fff-8af6-768890e1add6",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8af8f7a94f1fe1463e34b1290d4e32b0:0ab57ab3bf5dec35749978c217121a2e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/e28czcinfa/out/v1/00d2828855a944ffbbdc15232c4157a9/cb49c2f2-9974-45ac-b99c-24b04ceb2390-cenc.mpd?aws_sessionId=7daa78ed-d2a7-408e-abdf-c1517bea81cf",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0a2996a4f7b6208968af2a66f88ce31a:aa32d8b1d895f87e6b0245f9a340e030",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1725,6 +1773,14 @@
                 {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58485/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/242320fe-b970-4f82-9e14-2ca63cc11f54.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1960,8 +2016,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ztg97ws40s/out/v1/aaaab12c95924d80a77f87f7c745782a/27f50f3e-da7e-44f3-a089-d6cebb32622a-cenc.mpd?aws_sessionId=ff8d0fe4-cc36-44a9-9767-0fa7697669c6",
+                    "logo": "",
+                    "type": 0,
+                    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "USA TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58489/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558635.m3u8?txSecret=b3a82b7749691ed2c55665e5feaaf435&txTime=6ADCCC12|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/VAVAVA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1987,8 +2067,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4rnhqh58br/out/v1/4da9b7d2b1414cb28afd976da2c3b840/7064e9f8-31c3-48b0-9ba6-423e155bb887-cenc.mpd?aws_sessionId=e907fcdd-eef4-4521-8f08-5ee9d908fbbe",
+                    "logo": "",
+                    "type": 0,
+                    "api": "10bced93b774fe136058cd91c927ec83:2062864ab31922b087c52cf1dd0d57d3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PEACOCK TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58490/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558639.m3u8?txSecret=52a0c78b9c9f4bb1c27053c2157063bd&txTime=6ADCCC40|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/VAVAVAq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2014,8 +2118,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4557612.m3u8?txSecret=98db1519aa2a2c0b551c6bc5da4fd397&txTime=6ADCC967|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/HHHHQQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2041,8 +2153,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gkzfiqetz0/out/v1/3cd753d166674dac9bc6d7e1e0859c2b/cab2d11b-3532-4de7-be80-2ff84faf75a6-cenc.mpd?aws_sessionId=9e5271b3-7891-4c77-8e15-791bdc2e1153",
+                    "logo": "",
+                    "type": 0,
+                    "api": "24e607ca05673123153c75f1d749c7a9:a9cc4c98822831848b09b5a61252c09d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563644.m3u8?txSecret=368c2bf9bbb110e1b76df20a9125b4e9&txTime=6ADCC941|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/TKKKQQQAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2068,8 +2196,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4v10weyir8/out/v1/f94c0c58110b4ccbba0cd95ec82e011c/02b52cb1-17f5-4ec7-bb60-ef7ddbca286b-cenc.mpd?aws_sessionId=a6b2f1ea-47dc-4500-954c-404485ebd507|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "854a9dc727b636af6d3da097120c9fc1:90a52db723c66b0769d8931672711e73",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563638.m3u8?txSecret=6b15c8108014540b8ba10baf58e7a687&txTime=6ADCC8FE|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/HHHHQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2095,8 +2239,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gkzfiqetz0/out/v1/3cd753d166674dac9bc6d7e1e0859c2b/cab2d11b-3532-4de7-be80-2ff84faf75a6-cenc.mpd?aws_sessionId=9e5271b3-7891-4c77-8e15-791bdc2e1153|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "24e607ca05673123153c75f1d749c7a9:a9cc4c98822831848b09b5a61252c09d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563643.m3u8?txSecret=804f8f799f3e96eb89116acb15cfe09a&txTime=6ADCC92D|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/HHHHQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2122,8 +2290,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/f30gybclaf/out/v1/ab31975d86b64779b366e5131f15c55d/3807562a-0238-4df6-a846-d70273603325-cenc.mpd?aws_sessionId=738e10c1-77e9-496d-9221-82546e4b6598|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1202489ba07597d1e01a4af727a7282f:3541bf9203164c84e470a9d86470ad1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563645.m3u8?txSecret=a3b8469bbac05a72a0cab55d1c29925e&txTime=6ADCC8D5|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/YCCCAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2149,8 +2333,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sp0acb1dcn/out/v1/fc7309ee010245f9ba0298bf025ad699/01642ddc-bbad-44f6-9fd1-2745e0600a4f-cenc.mpd?aws_sessionId=6b3d7442-6753-4b62-b4d3-a7621ec1b390",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fbbc4c624888fec168dea0420557be57:2792165345a51ef36bd249ee2978026b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563646.m3u8?txSecret=9bd6cf08ef9c259211cfe6f93f6dd208&txTime=6ADCC8EC|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563646.m3u8?txSecret=9bd6cf08ef9c259211cfe6f93f6dd208&txTime=6ADCC8EC|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2176,8 +2376,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gkzfiqetz0/out/v1/3cd753d166674dac9bc6d7e1e0859c2b/cab2d11b-3532-4de7-be80-2ff84faf75a6-cenc.mpd?aws_sessionId=9e5271b3-7891-4c77-8e15-791bdc2e1153",
+                    "logo": "",
+                    "type": 0,
+                    "api": "24e607ca05673123153c75f1d749c7a9:a9cc4c98822831848b09b5a61252c09d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563640.m3u8?txSecret=b31c04b09a8c42f25d0abb79ae6951db&txTime=6ADCC913|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/TKKKQQQAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2203,8 +2427,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/MMMMAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2230,8 +2454,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/YCCCAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2257,8 +2481,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4655852.m3u8?txSecret=16c9cd67c83e35adcf740dce4265d1c3&txTime=6ADCC9C5|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2284,35 +2508,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4761,
-            "title": "Serie A Women",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Napoli",
-                "teamB": "Inter",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/354947/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-                "eventName": "Serie A Women",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/24 14:00:00 +0000",
-                "endTime": "2026/10/24 16:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4599638.m3u8?txSecret=2470237681a737b7d66769df19d23723&txTime=6ADCC9A2|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2365,8 +2562,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4565474.m3u8?txSecret=09abf87caced7f0d4257708804859882&txTime=6ADCD4BA",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/h444QQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2392,8 +2605,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4567331.m3u8?txSecret=7f35a2d9244f2fbf7516aacf05dcc991&txTime=6ADCD464|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/A888AAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2420,7 +2641,7 @@
             "channels_data": [
                 {
                     "title": "Link 1",
-                    "link": "https://no.link",
+                    "link": "http://193.47.62.55/hls/SSSS.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2446,8 +2667,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/SSSSQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2474,7 +2695,7 @@
             "channels_data": [
                 {
                     "title": "Link 1",
-                    "link": "https://no.link",
+                    "link": "http://193.47.62.55/hls/btbtbtqqqqqqq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2500,8 +2721,80 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/slskxlgpme/out/v1/85424275a0cb470db4acf738ff142e7b/bc518291-9664-4422-b5c3-3f2db8d678a6-cenc.mpd?aws_sessionId=b8ef052c-8dfc-4c84-b649-b9d558dc7e71",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c028c8cd3912346e60eea2403280abb8:6ed511321a020cace1c7420db4ad49f2",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hmtbqjazlu/out/v1/4f4679779d1b4c4d9ef5db79174645cd/ffb82c0f-0f89-44d9-b0d8-17644bcab1a3-cenc.mpd?aws_sessionId=33602b44-1282-4b64-a38d-5a003fb580b6",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e84be2c74e0f0e0178be0516034b4227:304d0326d1796128735117f40e258f7d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORT 1 CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CazéTV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58499/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4549055.m3u8?txSecret=1ed04debc35b237d6c978de13ec2d72c&txTime=6ADCE920|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/ajjjaaaqqqaaaaq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2527,8 +2820,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4581349.m3u8?txSecret=9da7d30af89fecea530d47bd1dc03c9f&txTime=6ADCE8AE|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/H4444QQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2554,8 +2855,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/srkulfgtkw/out/v1/e0316d0475ba4f49856859c6849364ba/d3ca1f99-d692-4bac-80c5-b21d2f4e994f-cenc.mpd?aws_sessionId=53bf1065-dd77-4185-a9bf-677d18c0a6a6",
+                    "logo": "",
+                    "type": 0,
+                    "api": "17a46dba100570515a5b0da85a62d270:6323f0044a993288a04f45b331c360bf",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/cfffaAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2581,8 +2890,56 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tmuyow2v4n/out/v1/42dd830cfc8140aea984c2c01166fd1c/0cc6e394-71a6-4e53-ad42-64d38a14a3fa-cenc.mpd?aws_sessionId=41d23a1f-5302-4eb0-ac50-a5fa48ce041a",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c73b2bb9fe9610c566c68de50b57ad7f:2f486dbafd801fafe67c5b148263b4db",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORTS FHD",
+                    "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=LS7CQgVo3LGHyQW5yphz-g&e=2092722172&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PEACOCK TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58509/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORTS EPL",
+                    "link": "https://hls.meth-streams-hd.cfd/live/espn-401878767/index.m3u8?|Referer=https://frame.meth-streams-hd.cfd/&origin=https://frame.meth-streams-hd.cfd&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558637.m3u8?txSecret=817cb961616940e06806482555b59814&txTime=6ADCF158|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/a97e583a-5cae-48f9-b9bd-a28855aff30f.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/tytyty.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2608,8 +2965,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "USA SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58510/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4566331.m3u8?txSecret=415d00caacaf639f04750053a30a9877&txTime=6ADCF17D|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "USA NETWORK HD",
+                    "link": "https://hls.meth-streams-hd.cfd/live/espn-401884763/index.m3u8?|Referer=https://frame.meth-streams-hd.cfd/&origin=https://frame.meth-streams-hd.cfd&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/IPPPAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2635,8 +3024,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CazéTV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/IPPPA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2662,8 +3083,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/LTTTAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2689,8 +3110,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/LTTTAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3307,6 +3728,780 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/25 03:10:00 +0000",
                 "endTime": "2026/10/25 05:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4799,
+            "title": "UFC",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+            "cat": "Mixed Martial Arts",
+            "eventInfo": {
+                "teamA": "A. Volkanovski",
+                "teamB": "M. Evloev",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/467404/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/467455/image",
+                "eventName": "UFC",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 14:00:00 +0000",
+                "endTime": "2026/10/24 17:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ssir8jews6/out/v1/61c2bac238b7422782a5e038863c1966/a121bf0f-3b8d-40e2-a72f-b1b4df13891c-cenc.mpd?aws_sessionId=74d64c22-5ad3-4cff-b1c0-95f042ee92b3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "294eb6d02ad018f4aaddd9e35b5dda37:3c557570e9b1e9e6e39dad3b78bcb012",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ ES",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tmfbljkrvo/out/v1/97ea6cd5f85242caadd34261558d639f/5a670ddd-cd2e-4e08-88a3-f07773ed6a5a-cenc.mpd?aws_sessionId=14bf9f84-2ab0-4f93-9c42-a0a28cdde7fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d9ea85885bc96d53961b9b07f1d86efb:d38968ef18f914602bffb6c74d7bbd3d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58494/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "UFC LIVE FHD",
+                    "link": "https://cobaltdream.s3.us-east-1.amazonaws.com/ufc.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream4.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4800,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Brewers",
+                "teamB": "Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 00:00:00 +0000",
+                "endTime": "2026/10/25 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4801,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Hawks",
+                "teamB": "Rockets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 00:30:00 +0000",
+                "endTime": "2026/10/25 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4802,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Mavericks",
+                "teamB": "Spurs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 00:00:00 +0000",
+                "endTime": "2026/10/25 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4803,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Suns",
+                "teamB": "Warriors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 02:00:00 +0000",
+                "endTime": "2026/10/25 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4804,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "76ers",
+                "teamB": "Bucks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:30:00 +0000",
+                "endTime": "2026/10/25 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4805,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Cavaliers",
+                "teamB": "Nets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:30:00 +0000",
+                "endTime": "2026/10/25 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4806,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Dream",
+                "teamB": "Valkyries",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 17:00:00 +0000",
+                "endTime": "2026/10/24 19:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4807,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Hornets",
+                "teamB": "Heat",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 22:00:00 +0000",
+                "endTime": "2026/10/25 00:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4808,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Nuggets",
+                "teamB": "Pelicans",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 01:00:00 +0000",
+                "endTime": "2026/10/25 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4809,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Bulls",
+                "teamB": "Wizards",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 00:00:00 +0000",
+                "endTime": "2026/10/25 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4810,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Mammoth",
+                "teamB": "Lightning",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 01:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4811,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Blues",
+                "teamB": "Hurricanes",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4812,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Bruins",
+                "teamB": "Sharks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4813,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Devils",
+                "teamB": "Kings",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 19:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4814,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Senators",
+                "teamB": "Rangers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4815,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Capitals",
+                "teamB": "Sabres",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4816,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Flyers",
+                "teamB": "Ducks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 17:00:00 +0000",
+                "endTime": "2026/10/24 21:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "NHL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58511/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NHL LIVE HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58512/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/uyopzarf50.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4817,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Flames",
+                "teamB": "Red Wings",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 02:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4818,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Blue Jackets",
+                "teamB": "Golden Knights",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4819,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Oilers",
+                "teamB": "Maple Leafs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4820,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Kraken",
+                "teamB": "Wild",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 02:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4821,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Penguins",
+                "teamB": "Predators",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 23:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4822,
+            "title": "NFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Saints",
+                "teamB": "Steelers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4425/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/25 13:30:00 +0000",
+                "endTime": "2026/10/25 16:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4823,
+            "title": "CFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Saskatchewan",
+                "teamB": "Edmonton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+                "eventName": "CFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 19:00:00 +0000",
+                "endTime": "2026/10/24 22:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4824,
+            "title": "CFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Hamilton",
+                "teamB": "Ottawa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4441/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4437/image",
+                "eventName": "CFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 19:00:00 +0000",
+                "endTime": "2026/10/24 22:00:00 +0000"
             },
             "channels_data": [
                 {
